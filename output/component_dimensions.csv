@@ -1,0 +1,11 @@
+item,component,length_z_mm,max_diameter_mm,volume_mm3,units,basis
+1,Pen_Cap,49.02,9.43,871.08,mm,"photo: shape, colour, branding (branding not modelled)"
+2,Pocket_Clip,38.00,3.20,117.89,mm,photo: visible; modelled as separate solid (likely moulded integral)
+3,Cap_Insert,14.56,8.11,566.92,mm,inferred: inner sleeve/stop
+4,Ballpoint_Ball,0.71,0.71,0.18,mm,inferred from 0.7 mm marking
+5,Metal_Writing_Tip,6.71,2.31,13.84,mm,"inferred, partly visible"
+6,Refill_Connector,9.40,2.90,29.02,mm,inferred
+7,Ink_Reservoir,120.95,3.00,474.97,mm,photo: visible tube in barrel
+8,Ink_Column,97.95,1.96,295.53,mm,photo: dark ink column
+9,Transparent_Barrel,128.03,8.04,2424.25,mm,photo: clear barrel
+10,Rear_End_Plug,16.72,8.03,627.41,mm,photo: blue rear plug; spigot inferred

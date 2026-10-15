@@ -1,0 +1,11 @@
+item,component,qty,material (assumed),notes
+1,Pen_Cap,1,"PP, blue","photo: shape, colour, branding (branding not modelled)"
+2,Pocket_Clip,1,"PP, blue",photo: visible; modelled as separate solid (likely moulded integral)
+3,Cap_Insert,1,"PP, blue",inferred: inner sleeve/stop
+4,Ballpoint_Ball,1,Tungsten carbide,inferred from 0.7 mm marking
+5,Metal_Writing_Tip,1,Brass / nickel-silver,"inferred, partly visible"
+6,Refill_Connector,1,"PE, natural",inferred
+7,Ink_Reservoir,1,"PP, translucent",photo: visible tube in barrel
+8,Ink_Column,1,"Oil-based ink, blue",photo: dark ink column
+9,Transparent_Barrel,1,"PS, clear",photo: clear barrel
+10,Rear_End_Plug,1,"PP, blue",photo: blue rear plug; spigot inferred
